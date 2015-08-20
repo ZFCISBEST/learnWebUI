@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.s_frame {
+    width: 1200px;
+    min-height: 2680px;
+    margin: 0 auto;
+    /*background-color: #93c5e3;*/
+    background-color: rgba(226, 226, 226, 0.15);
+    position:relative;
+    top:58px;
+}
