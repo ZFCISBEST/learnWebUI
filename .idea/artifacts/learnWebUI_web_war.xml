@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learnWebUI-web:war">
+    <output-path>$PROJECT_DIR$/learnWebUI-web/target</output-path>
+    <root id="archive" name="learnWebUI-web.war">
+      <element id="artifact" artifact-name="learnWebUI-web:war exploded" />
+    </root>
+  </artifact>
+</component>

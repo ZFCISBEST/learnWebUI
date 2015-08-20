@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learnWebUI.iml" filepath="$PROJECT_DIR$/learnWebUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnWebUI-biz/learnWebUI-biz.iml" filepath="$PROJECT_DIR$/learnWebUI-biz/learnWebUI-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnWebUI-dao/learnWebUI-dao.iml" filepath="$PROJECT_DIR$/learnWebUI-dao/learnWebUI-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnWebUI-web/learnWebUI-web.iml" filepath="$PROJECT_DIR$/learnWebUI-web/learnWebUI-web.iml" />
+    </modules>
+  </component>
+</project>
