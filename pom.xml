@@ -16,6 +16,7 @@
 
   <dependencyManagement>
     <dependencies>
+      <!--测试-->
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
