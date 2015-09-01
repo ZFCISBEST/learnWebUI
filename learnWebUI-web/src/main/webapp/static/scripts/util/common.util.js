@@ -122,4 +122,11 @@
         });
     };
 
+    //编号
+    $.fn.newIndex = function(selector){
+        this.find(selector).each(function(index){
+            $(this).text(index+1);
+        });
+    }
+
 })(jQuery);
